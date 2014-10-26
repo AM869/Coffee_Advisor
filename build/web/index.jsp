@@ -1,8 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : Oct 25, 2014, 9:13:14 PM
-    Author     : Soukas
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

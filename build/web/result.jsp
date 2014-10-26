@@ -1,8 +1,3 @@
-<%-- 
-    Document   : view
-    Created on : Oct 25, 2014, 9:14:11 PM
-    Author     : Soukas
---%>
 
 <!DOCTYPE html>
 <%@ page import="java.util.*" %>
